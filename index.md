@@ -5,14 +5,14 @@ M: +61 418 262 383 | E: amcunio@bigpond.net.au
 A: Greater Sydney Area
 [https://au.linkedin.com/in/alexander-cunio-691956166](https://au.linkedin.com/in/alexander-cunio-691956166)
 
-##**CAREER PROFILE**
+## **CAREER PROFILE**
 
 Third year, High Distinction average, Bachelor of Engineering studentwho has:
 
 - Continued to excel in his studies after completing high school in the top two percent of the state and continue to be one of the top students at UNSW engineering
 - Have applied my engineering skills within the university working in teams to develop working prototypes and machines as well as tutoring students in their earlier years of study at the university
 
-##**EDUCATION**
+## **EDUCATION**
 
 **Bachelor of Mechatronic Engineering / Computer Science** 2018 – present
 **University of New South Wales Sydney**
@@ -23,7 +23,7 @@ Third year, High Distinction average, Bachelor of Engineering studentwho has:
 **Cranbrook School**
 - ATAR: 98.85
 
-##**AWARDS**
+## **AWARDS**
 
 **UNSW Engineering Dean's Award** 2018
 **University of New South Wales Sydney**
@@ -35,7 +35,7 @@ Third year, High Distinction average, Bachelor of Engineering studentwho has:
 
 - Achieved for being one of the top 100 students enrolled across engineering at UNSW
 
-##**RELEVANT EXPERIENCE**
+## **RELEVANT EXPERIENCE**
 
 **Nura Gili tutor (mechatronics engineering course)** Sep 2020 – Dec 2020
 **University of New South Wales Sydney**
@@ -55,7 +55,7 @@ Third year, High Distinction average, Bachelor of Engineering studentwho has:
 - Volunteered alongside a number of students within the rover engineering team, one of the student projects offered at UNSW by BlueSat
 - Developed a mechanical rover alongside a team of individuals across different engineering fields to compete in the European Rover Challenge
 
-##**ADDITIONAL EXPERIENCE**
+## **ADDITIONAL EXPERIENCE**
 
 **Film Director** Nov 2017 – Jun 2018
 **Cranbrook School**
@@ -69,14 +69,14 @@ Third year, High Distinction average, Bachelor of Engineering studentwho has:
 - Produced and taught a program for a series of high school students in developing engineering skills in design and programming to produce robots for a range of purposes
 - Aided in extending mechatronics engineering into the classroom to younger students through the school&#39;s STEM program
 
-##**ADDITIONAL PROJECTS**
+## **ADDITIONAL PROJECTS**
 
 **Personal home control system** May 2018 - Present
 
 - Working on developing a web-based system in Python, Javascript, HTML, and CSS to interface with and control existing lighting and entertainment equipment within my home
 - Applied concepts of backend web development and software design to produce a codebase for a software system
 
-##**PROFESSIONAL SKILLS**
+## **PROFESSIONAL SKILLS**
 
 **Technical – Programming languages**
 
