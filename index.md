@@ -6,94 +6,114 @@ A: Greater Sydney Area
 
 [https://au.linkedin.com/in/alexander-cunio-691956166](https://au.linkedin.com/in/alexander-cunio-691956166)
 
-## **CAREER PROFILE**
+## PROFILE
 
-Third year, High Distinction average, Bachelor of Engineering studentwho has:
+-	Currently completing a double degree of computer science and mechatronic engineering
+-	Received coveted Dean’s Award for strong academic achievement
+-	Collaborated with teams to develop working machines and systems in technical projects
+-	Motivate students with creative and engaging activities through tutoring and teaching
 
-- Continued to excel in his studies after completing high school in the top two percent of the state and continue to be one of the top students at UNSW engineering
-- Have applied my engineering skills within the university working in teams to develop working prototypes and machines as well as tutoring students in their earlier years of study at the university
+## EDUCATION 
 
-## **EDUCATION**
+Bachelor of Computer Science / Mechatronic Engineering – WAM: 91.900 <br/>
+2020 – present <br/>
+University of New South Wales Sydney
+-	Transferred to this program at the beginning of 2020
+-	Successfully attained a high distinction in every course studied
 
-**Bachelor of Mechatronic Engineering / Computer Science** 2018 – present
-**University of New South Wales Sydney**
-- Successfully attained a high distinction in every course studied
-- WAM: 91.900
+Bachelor of Mechatronic Engineering / Master Biomedical Engineering – WAM: 90.313 <br/>
+2018 – 2020 <br/>
+University of New South Wales Sydney
+-	Successfully attained a high distinction in every course studied
+-	Achieved the UNSW Engineering Dean’s award in both 2018 and 2019 for being one of the top 100 students enrolled across engineering at UNSW
 
-**Higher School Certificate** 2017
-**Cranbrook School**
-- ATAR: 98.85
+Higher School Certificate - ATAR: 98.85 <br/>
+2017 <br/>
+Cranbrook School
+-	Finished high school in the top two percent of New South Wales students
 
-## **AWARDS**
+## TECHNICAL EXPERIENCE
 
-**UNSW Engineering Dean's Award** 2018
-**University of New South Wales Sydney**
+Academic tutor <br/>
+Jun 2020 – present <br/>
+Biomedical Engineering, UNSW Sydney	
+-	Collaborated with students and tutors to design an online course for distance learning during COVID-19
+-	Mentored classes of 30-40 first year students in a variety of engineering skills
+-	Adapted online course content to run the course again for an in-person setting
 
-- Achieved for being one of the top 100 students enrolled across engineering at UNSW
+Academic tutor (mechatronics engineering course) <br/>
+Sep 2020 – Dec 2020 <br/>
+Nura Gili, University of New South Wales Sydney	
+-	Assisted in increasing the outcomes of indigenous students studying at UNSW through the Nura Gili Indigenous tuition program (ITP)
+-	Guided a student in one-on-one sessions in their mechatronics engineering programming course
 
-**UNSW Engineering Dean's Award** 2019
-**University of New South Wales Sydney**
+Mechanical Engineering Team Member <br/>
+Aug 2018 – Nov 2020 <br/>
+BLUEsat, UNSW Sydney	
+-	Volunteered within a mechanical team to develop components for an off-world rover
+-	Communicated between teams in varying engineering fields to produce a single incorporated system that competed in the European Rover Challenge
 
-- Achieved for being one of the top 100 students enrolled across engineering at UNSW
+## TECHNICAL PROJECTS
 
-## **RELEVANT EXPERIENCE**
+Education algorithm visualisation <br/>
+March 2021 – Present <br/>
+CSESOC, UNSW Sydney
+-	Collaborating to build from scratch a software system that allows for the visual representation of technical computer algorithms and concepts for aid in student education
+-	Formulating concepts to choose a tech stack and suitable project management techniques
 
-**Nura Gili tutor (mechatronics engineering course)** Sep 2020 – Dec 2020
-**University of New South Wales Sydney**
+Personal home control system <br/>
+May 2018 - Present
+-	Working on developing a web-based system for interfacing with and controlling existing technology
+-	Applied development and software design concepts to produce a codebase for a software system
+-	Achieved a full software system by employing self-taught concepts with Javascript, HTML, and CSS
 
-- Completed weekly one-on-one tutoring sessions with a student for their mechatronics engineering programming course
-- Aided in increasing the outcomes of indigenous students studying at UNSW through the Nura Gili Indigenous tuition program (ITP)
+Game development <br/>
+Sep 2020 – Dec 2020 <br/>
+Computer Science course, UNSW Sydney	
+-	Produced an implementation of a tactical strategy game where players compete to conquer territory
+-	Followed object-oriented programming (OOP) techniques to implemented both backend (in java) and front-end (using javaFX) functionality as a pair of students
+-	Ensured a feature-rich product was produced by following the full software development life cycle from the customer’s requirements to adding features to the final codebase
 
-**Biomedical engineering casual academic (tutor)** Jun 2020 – Sep 2020
-**University of New South Wales Sydney**
+Web backend development <br/>
+Feb 2020 – May 2020 <br/>
+Computer Science course, UNSW Sydney	
+-	Developed the backend of an instant messaging application that provided functionality including user management, messaging, message reactions, and implementing a chat game
+-	Followed the software development life cycle within a group of four members using agile techniques
+-	Achieved an interactive software system by undertook test driven development through pytest and production in python
 
-- Completed weekly one-on-one tutoring sessions with a student through the Nura Gili Indigenous tuition program (ITP) aiming to increase the outcomes of indigenous students studying at UNSW
-- Ensured a flexible timetable to work with the students needs based on their workload at all points throughout the term
+## ADDITIONAL EXPERIENCE
 
-**Mechanical Engineering Team Member** Aug 2018 – Nov 2020
-**BlueSat UNSW**
+Robotics Educator <br/>
+Aug 2018 - Present <br/>
+Cranbrook School	
+-	Engage a class of 15 high school students by designing and leading engineering problems
+-	Develop engineering skills in mechanical design and programming using LEGO’s educational platform
+-	Extend mechatronics engineering into the classroom through the school’s STEM program
 
-- Volunteered alongside a number of students within the rover engineering team, one of the student projects offered at UNSW by BlueSat
-- Developed a mechanical rover alongside a team of individuals across different engineering fields to compete in the European Rover Challenge
+Film Director <br/>
+Nov 2017 – Jun 2018 <br/>
+Cranbrook School	
+-	Invited by the school to direct their centenary celebration film
+-	Commemorated achievements and milestones of the past 100 years since the school was founded
+-	Coordinated professional crew and student cast to work cohesively together for a successful workflow
 
-## **ADDITIONAL EXPERIENCE**
+## PROFESSIONAL SKILLS
 
-**Film Director** Nov 2017 – Jun 2018
-**Cranbrook School**
+Technical – Programming languages	
+ 
+-	Python – Intermediate
+-	Java – Basic
+-	C++ – Basic
+-	C – Intermediate
+-	MIPS assembly – Intermediate
+-	MATLAB – Basic
+-	JavaScript – Basic
+-	HTML/CSS – Basic
 
-- Invited by the school to direct their centenary celebration film, presented at a formal gala dinner, to represent their achievements of the past 100 years since the school was founded
-- Managed a group of individuals consisting of professional crew members and student cast members
+Technical – Engineering software
+-	MATLAB – Basic
+-	CAD (Solidworks, inventor pro, fusion 360) – Intermediate
 
-**Robotics Educator** Aug 2018 - Present
-**Cranbrook School**
-
-- Produced and taught a program for a series of high school students in developing engineering skills in design and programming to produce robots for a range of purposes
-- Aided in extending mechatronics engineering into the classroom to younger students through the school&#39;s STEM program
-
-## **ADDITIONAL PROJECTS**
-
-**Personal home control system** May 2018 - Present
-
-- Working on developing a web-based system in Python, Javascript, HTML, and CSS to interface with and control existing lighting and entertainment equipment within my home
-- Applied concepts of backend web development and software design to produce a codebase for a software system
-
-## **PROFESSIONAL SKILLS**
-
-**Technical – Programming languages**
-
-- C programming language – Intermediate
-- C++ programming language – Intermediate
-- Python programming language – Intermediate
-- MATLAB programming language – Basic
-- Arduino programming language – Intermediate
-- MIPS programming language – Intermediate
-
-**Technical – Engineering software**
-
-- MATLAB – Basic
-- CAD (Solidworks, inventor pro, fusion 360) – Intermediate
-
-**Languages**
-
-- English – Native proficiency
-- French – High school diploma
+Languages	
+-	English – Native proficiency
+-	French – High school diploma
