@@ -17,7 +17,7 @@ export default function Project(props) {
       <Divider />
       <p>{props.project.description}</p>
       <Divider />
-      <Grid container spacing={2}>
+      <Grid className="add-padding" container spacing={2}>
         {props.project.tags.map(tag=>(
           <Grid item>
             <Chip label={tag} variant="filled" />

@@ -10,7 +10,7 @@ const MyProjects = [
         title: "Home Control System",
         position: "Ongoing personal project",
         image: "SmartHome.jpg",
-        description: "A system developed from the ground up for controlling existing technology within my home. Direct control is provided to various fixtures along with autonomous scenes for ease of control. I have developed the frontend interface, and backend integration that is able to communicate and interract with lighting and comfort systems currently with additional integrations in development.",
+        description: "A system developed from the ground up for controlling existing technology within a home. Direct control is provided to various fixtures along with autonomous scenes for ease of control. I have developed the frontend interface, and backend integration that is able to communicate and interract with lighting and comfort systems currently with additional integrations in development.",
         tags: ["Python", "Flask", "Javascript", "React"]
     },
     {
