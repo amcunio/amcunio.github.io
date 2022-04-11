@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.273449e2.css",
-    "main.js": "/static/js/main.3dbfad60.js",
+    "main.js": "/static/js/main.36bafe1d.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/Resume_Alexander_Cunio.pdf": "/static/media/Resume_Alexander_Cunio.4b2c7447727b13284572.pdf",
     "static/media/Transcript_Alexander_Cunio.pdf": "/static/media/Transcript_Alexander_Cunio.5ac5c46092e5c16df91a.pdf",
     "index.html": "/index.html",
     "main.273449e2.css.map": "/static/css/main.273449e2.css.map",
-    "main.3dbfad60.js.map": "/static/js/main.3dbfad60.js.map",
+    "main.36bafe1d.js.map": "/static/js/main.36bafe1d.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.273449e2.css",
-    "static/js/main.3dbfad60.js"
+    "static/js/main.36bafe1d.js"
   ]
 }
